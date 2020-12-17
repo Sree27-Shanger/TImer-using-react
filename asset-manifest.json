@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TImer-using-react/static/css/main.7ffe2c82.chunk.css",
+    "main.js": "/TImer-using-react/static/js/main.da06193b.chunk.js",
+    "main.js.map": "/TImer-using-react/static/js/main.da06193b.chunk.js.map",
+    "runtime-main.js": "/TImer-using-react/static/js/runtime-main.4d71c99c.js",
+    "runtime-main.js.map": "/TImer-using-react/static/js/runtime-main.4d71c99c.js.map",
+    "static/js/2.11d8c6a2.chunk.js": "/TImer-using-react/static/js/2.11d8c6a2.chunk.js",
+    "static/js/2.11d8c6a2.chunk.js.map": "/TImer-using-react/static/js/2.11d8c6a2.chunk.js.map",
+    "static/js/3.7d94c86d.chunk.js": "/TImer-using-react/static/js/3.7d94c86d.chunk.js",
+    "static/js/3.7d94c86d.chunk.js.map": "/TImer-using-react/static/js/3.7d94c86d.chunk.js.map",
+    "index.html": "/TImer-using-react/index.html",
+    "static/css/main.7ffe2c82.chunk.css.map": "/TImer-using-react/static/css/main.7ffe2c82.chunk.css.map",
+    "static/js/2.11d8c6a2.chunk.js.LICENSE.txt": "/TImer-using-react/static/js/2.11d8c6a2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d71c99c.js",
+    "static/js/2.11d8c6a2.chunk.js",
+    "static/css/main.7ffe2c82.chunk.css",
+    "static/js/main.da06193b.chunk.js"
+  ]
+}
